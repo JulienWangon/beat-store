@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Environnements
+.env
+.env.local
+.env.*.local
+
+# Builds et coverage
+dist/
+build/
+coverage/
+
+# OS et éditeur
+.DS_Store
+.vscode/
